@@ -1,0 +1,24 @@
+{
+    "bot_token": "MTIxOTU3MDUxMDQ1NTkwMjIzOQ.GaLZbM.STQvB2QWhWA7nT1H2h9Oye3X-KFVAxtc5mQELs",
+    "bot_status": ".gg/niggaempire",
+    "capmonster_key": "2516543f08c848657362c4b45d31a45",
+    "proxyless": true,
+    "change_server_nick": true,
+    "server_nick": ".gg/soulboost",
+    "change_bio": true,
+    "set_bio": ".gg/soulboost",
+    "guildID": "1203554055788429352",
+    "ownerID": [
+        983670237079666709
+    ],
+    "adminID": [
+        ,
+        983670237079666709,
+        ,
+        ,
+        
+    ],
+    "order_log_webhook": "https://discord.com/api/webhooks/1212081413042733086/Qm-ues6Gu0DI03Cj3Q6mdWC2IIDVxZpTe8VatCWlfUrTedXJM5IhVqbVTGBzlsuJBQkI",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1212081589584920656/3UIIEiT2IaK3LXKo2-7w3igEOMcw_Ew33mdxazyHMA8odJXYg5kvyKxP5PRGzqnPKN7J",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1212081772695920670/hqYbayk696zSq4vJJERI_XBfiYVULAYzdGgZH1P5x_uTXGkhGcOd38LFbZWH4L2G_JS0"
+}

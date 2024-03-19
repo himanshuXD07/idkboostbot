@@ -1,0 +1,6 @@
+1)install python and pip(make sure to have enviroment varibles in the correct place : https://www.youtube.com/watch?v=luYZh-nbbt0(guide))
+2)set everything in config
+3)while keeping folder of boost bot open type cmd in the address bar, this will open up cmd prompt
+4)paste this in command prompt("pip install -r requirements.txt")
+5)then after it has downloaded and installed everthing write this in the cmd prompt(python main.py)
+
